@@ -7,3 +7,8 @@
   (window, document, 'script', 'https://yeself-cloud-acc-app.brux.space:443/sdk/7aeb2b05-545a-4558-9a4c-7652e88b143e/app.js', 'yesElf');
 yesElf('id', '7aeb2b05-545a-4558-9a4c-7652e88b143e');
 yesElf('popups', true);
+yesElf('segmentation', 'userId', 'testId');
+yesElf('segmentation', 'roles', 'admin');
+yesElf('segmentation', 'num', 5);
+yesElf('segmentation', 'text', 'test');
+yesElf('segmentation', 'date', '1.1.2021');
